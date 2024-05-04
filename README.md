@@ -1,4 +1,4 @@
-# OptiX - VR
+# TrainX - VR
 
 Virtual reality software for radiation protection trainning in operating room.
 
