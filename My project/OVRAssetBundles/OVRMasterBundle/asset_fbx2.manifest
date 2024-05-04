@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 1166525049
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28f25e4401faedaa8dcfc46d62e0defc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf87203de4540434ab2108b2f132a092
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_thumb_mask_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_generic_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_fist_anim.fbx
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidRunTurn.fbx
+- Assets/_Assets/Animation/Standing Thumbs Up.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_relax_mid_fist_anim.fbx
+- Assets/_Assets/Models/coveredbody.fbx
+- Assets/_Assets/Characters/woman.fbx
+- Assets/_Assets/Characters/anesthesiste_man.fbx
+- Assets/_Assets/Models/portemanteau.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_ping_pong_ball_anim.fbx
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidWalk.fbx
+- Assets/_Assets/Models/marche-pieds.fbx
+- Assets/_Assets/Models/multiprises.fbx
+- Assets/OculusAsymmetricalTemplate/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx
+- Assets/iPoly3D/Server Room/Models/mouse.fbx
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidCrouch.fbx
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidIdleJumpUp.fbx
+- Assets/_Assets/Animation/Waving.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_pinch_anim.fbx
+- Assets/iPoly3D/Server Room/Models/screen.fbx
+- Assets/iPoly3D/Server Room/Models/Keyboard.fbx
+- Assets/Surgical Instruments - Free hospital props/Models/Forceps_3.fbx
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidRunTurnSharp.fbx
+- Assets/iPoly3D/Server Room/Models/panel.fbx
+- Assets/_Assets/Models/Siemens_controlunit.fbx
+Dependencies:
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_png0

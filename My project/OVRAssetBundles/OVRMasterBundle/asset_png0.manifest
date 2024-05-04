@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2942429104
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c75998a24febf9e95ca90545b2efc48e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/notgood.png
+- Assets/_Assets/Textures/realistic-human-eye-texture-free-766.png
+- Assets/_Assets/Textures/logo-phillips.png
+- Packages/com.unity.inputsystem/InputSystem/Editor/Icons/InputSystemUIInputModule@64.png
+- Assets/_Assets/Textures/lamp4.png
+- Assets/BarProps/Textures/OldSchoolBarstool/OldSchoolBarstoolNoBack/OldSchoolBarstoolNoBack_OldSchoolBarstoolNoBack-material_AlbedoTransparency.png
+- Assets/iPoly3D/Server Room/Textures/lowpoly_server_texture.png
+- Assets/HumanShaderPack/HairShaderSimple/Textures_hair/hairNorm.png
+- Assets/OculusAsymmetricalTemplate/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png
+- Assets/Surgical Instruments - Free hospital props/Models/Textures/Surgical pack_all_tex_AlbedoTransparency.png
+- Assets/HumanShaderPack/HairShaderSimple/Textures_hair/HairVariator.png
+- Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Head-2.png
+- Assets/_Assets/DoseMaps/p_1_60_30_100_0_0_0_world_edep.mhd_dosemapmipfilter.png
+- Assets/_Assets/DoseMaps/p_1_-30_-30_100_0_0_0_world_edep.mhd_dosemapmipfilter.png
+- Assets/_Assets/DoseMaps/p_1_60_0_100_0_0_0_world_edep.mhd_dosemapmipfilter.png
+- Assets/_Assets/DoseMaps/p_1_-30_0_120_0_0_0_world_edep.mhd_dosemapmipfilter.png
+- Assets/Surgical Instruments - Free hospital props/Models/Textures/Surgical pack_all_tex_MetallicSmoothness.png
+- Assets/Untitled_design-removebg-preview.png
+- Assets/_Assets/DoseMaps/p_1_0_30_100_0_0_0_world_edep.mhd_dosemapmipfilter.png
+- Assets/BarProps/Textures/OldSchoolBarstool/OldSchoolBarstoolNoBack/OldSchoolBarstoolNoBack_OldSchoolBarstoolNoBack-material_MetallicSmoothness.png
+- Assets/_Assets/DoseMaps/p_1_30_-30_100_0_0_0_world_edep.mhd_dosemapmipfilter.png
+- Packages/com.unity.animation.rigging/Editor/Icons/RuntimeRig@32.png
+- Assets/good.png
+- Assets/HumanShaderPack/HairShaderSimple/Textures_hair/AlphaTest.png
+- Assets/OculusAsymmetricalTemplate/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png
+- Assets/_Assets/Textures/lamp3.png
+- Assets/HumanShaderPack/HairShaderSimple/Textures_hair/AlphaTest_test2.png
+- Assets/_Assets/Textures/6-digit-poe-digital-clock.png
+- Assets/HumanShaderPack/HairShaderSimple/Textures_hair/AlphaTest 3.png
+- Assets/_Assets/DoseMaps/p_1_90_0_120_0_0_0_world_edep.mhd_dosemapmipfilter.png
+Dependencies: []

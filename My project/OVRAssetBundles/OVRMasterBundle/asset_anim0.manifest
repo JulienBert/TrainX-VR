@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1235173911
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afeeef5e627bd3dbad654a7d9122e255
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Assets/Animation/Rotations/C-Arm/InverseRotation_60_30.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/Rotation_min30_min30.anim
+- Assets/_Assets/Animation/Rotations/Surgeon/InverseHand_60_30.anim
+- Assets/_Assets/Animation/Rotations/Surgeon/Hand_min30_min30.anim
+- Assets/_Assets/Animation/animDoor3.anim
+- Assets/_Assets/Animation/Rotations/Surgeon/Hand_60_30.anim
+- Assets/_Assets/Animation/TutoTeleportation8.anim
+- Assets/_Assets/Animation/SHandsAct.anim
+- Assets/_Assets/Animation/animDoor2.anim
+- Assets/_Assets/Animation/Rotations/Surgeon/InverseHandToCarmR.anim
+- Assets/_Assets/Animation/AToThePatient.anim
+- Assets/_Assets/Animation/TutoTeleportation6.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/idle_carm.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/Support_60_30.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/InverseSupport_min30_min30.anim
+- Assets/_Assets/Animation/IToInstruments.anim
+- Assets/_Assets/Animation/TutoTeleportation7.anim
+- Assets/_Assets/Animation/AnimationDoor4Close.anim
+- Assets/_Assets/Animation/animDoor4.anim
+- Assets/_Assets/Animation/Rotations/Surgeon/HandToCarmR.anim
+- Assets/_Assets/Animation/TutoTeleportation2.anim
+- Assets/_Assets/Animation/AnimationDoorClose.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/Support_idle.anim
+- Assets/_Assets/Animation/animDoor.anim
+- Assets/_Assets/Animation/AnimationDoor3Close.anim
+- Assets/_Assets/Animation/TutoTeleportation4.anim
+- Assets/_Assets/Animation/Rotations/Surgeon/InverseHand_min30_min30.anim
+- Assets/_Assets/Animation/IHandsMovement.anim
+- Assets/_Assets/Animation/TutoTeleportation.anim
+- Assets/_Assets/Animation/AnimationDoor4.anim
+Dependencies: []

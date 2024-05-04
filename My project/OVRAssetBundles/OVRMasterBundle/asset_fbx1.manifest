@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 1226502414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6da7fd34fda0e47a7bf74451bb4c92a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2843cedbca5e6c6bce959118ad6de2fb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidMidAir.fbx
+- Assets/_Assets/Models/teleporttarget.fbx
+- Assets/_Assets/Models/bornedosimetrique.fbx
+- Assets/Surgical Instruments - Free hospital props/Models/Syringe_1.fbx
+- Assets/_Assets/Models/tablechir.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_index_mask_anim.fbx
+- Assets/_Assets/Models/target.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_relax_3qtr_fist_anim.fbx
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidIdle.fbx
+- Assets/_Assets/Models/lampechirurgicale.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/r_hand_skeletal_lowres.fbx
+- Assets/_Assets/Models/computeronwall.fbx
+- Assets/_Assets/Models/endovasculartools.fbx
+- Assets/Surgical Instruments - Free hospital props/Models/Forceps_1.fbx
+- Assets/_Assets/Models/passivedosimeter.fbx
+- Assets/_Assets/Models/meuble_outilschir_1.fbx
+- Assets/_Assets/Models/hospitalbed.fbx
+- Assets/Surgical Instruments - Free hospital props/Models/Scalpel_2.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_index_mask_anim.fbx
+- Assets/Surgical Instruments - Free hospital props/Models/Scalpel_1.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_point_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_pinch_anim.fbx
+- Assets/_Assets/Models/screens.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_point_anim.fbx
+- Assets/_Assets/Models/carm.fbx
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/HumanoidWalkTurn.fbx
+- Assets/_Assets/Models/name_characters.fbx
+- Assets/_Assets/Characters/trainer.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_hold_generic_anim.fbx
+Dependencies:
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_png0

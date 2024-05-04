@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 221337388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa2216fe6923a67c3e80ac348ea78fd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Core/Locomotion/Materials/ColumnGlow.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+- Assets/HumanShaderPack/HairShaderSimple/HairShader/RRF_HairShader_Cull_FX.shader
+- Assets/HumanShaderPack/HairShaderSimple/HairShader/RRF_HairShader_Optimal.shader
+Dependencies:
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_png0

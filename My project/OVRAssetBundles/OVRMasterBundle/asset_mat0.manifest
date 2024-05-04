@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3126822950
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a940b3eb3be92716fba6e02a95fe34dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Surgical Instruments - Free hospital props/Models/Materials/M_Forceps_3.mat
+- Assets/_Assets/Materials/skin2.mat
+- Assets/_Assets/Materials/Encadrement porte.mat
+- Assets/OculusAsymmetricalTemplate/Materials/Head-3.mat
+- Assets/Oculus/SampleFramework/Core/Locomotion/Materials/lambert1.mat
+- Assets/outlined_material.mat
+- Assets/_Assets/Materials/gloves.mat
+- Assets/_Assets/Materials/Column Glow.mat
+- Assets/_Assets/Materials/NeonLight.mat
+- Assets/HumanShaderPack/HairShaderSimple/Materials_Hair/eye_lash.mat
+- Assets/Surgical Instruments - Free hospital props/Models/Materials/M_Scalpel_2.mat
+- Assets/iPoly3D/Server Room/Materials/Server_Material.mat
+- Assets/Materials/texture_plafond 5.mat
+- Assets/OculusAsymmetricalTemplate/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat
+- Assets/Surgical Instruments - Free hospital props/Models/Materials/M_Clamp_1.mat
+- Assets/Materials/texture_sol_noir.mat
+- Assets/_Assets/Materials/Monitoring_screen.mat
+- Assets/Materials/vue_fenetre.mat
+- Assets/_Assets/Materials/Hotte_texture.mat
+- Assets/OculusAsymmetricalTemplate/Materials/Small.mat
+- Assets/BarProps/Textures/OldSchoolBarstool/OldSchoolBarstoolNoBack/Materials/OldSchoolBarstoolNoBack_OldSchoolBarstoolNoBack-material_MetallicSmoothness.mat
+- Assets/Materials/blanc_porte.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Materials/texturepapierbleu.mat
+- Assets/red.mat
+- Assets/Surgical Instruments - Free hospital props/Models/Materials/M_Clamp_2.mat
+- Assets/HumanShaderPack/HairShaderSimple/Materials_Hair/tryeyelash.mat
+- Assets/OculusAsymmetricalTemplate/Materials/Cube.mat
+- Assets/Surgical Instruments - Free hospital props/Models/Materials/M_Syringe_1.mat
+- Assets/_Assets/Textures/latimmaterial.mat
+Dependencies:
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_tga0

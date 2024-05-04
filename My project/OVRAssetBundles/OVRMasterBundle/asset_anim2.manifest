@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1555955767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 717538115478d3b23b60c714754109d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Assets/Animation/AnimationDoor2.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/Rotation_0_30.anim
+- Assets/_Assets/Animation/AnimationDoor3.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/InverseRotation_0_min30.anim
+- Assets/_Assets/Animation/Rotations/Surgeon/InverseHandRotation_0_min30.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/InverseRotation_60_0.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/InverseSupport_60_30.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/InverseRotation_min30_0.anim
+- Assets/_Assets/Animation/MovementToPatient.anim
+- Assets/_Assets/Animation/Rotations/Surgeon/HandToCarm.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/InverseRotation_min30_min30.anim
+- Assets/_Assets/Animation/InverseHeadMovement_0_30.anim
+- Assets/_Assets/Animation/AnimationDoor2Close.anim
+- Assets/_Assets/Animation/Rotations/Surgeon/InverseHandRotation_60_30.anim
+- Assets/_Assets/Animation/Rotations/C-Arm/Rotation_60_30.anim
+Dependencies: []

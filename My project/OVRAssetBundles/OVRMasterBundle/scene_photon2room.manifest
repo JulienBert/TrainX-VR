@@ -1,0 +1,112 @@
+ManifestFileVersion: 0
+CRC: 2307742163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42c9458af9956f745953c9233d755230
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b406d899eb6f26d0b4f73ed4fd23b196
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab4c587457d86f4ca80582f946785ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df8e1d778abf442e4bec449c360e9e1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b8c4a61274f60b4ea5fb4299cfdbf14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d49b7c1bcd2e07499844da127be038d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dca57e1a0757e59478e4b8a42172b858, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d46f6e5c504d47498411f3f59f13c32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce7a80d520cacc042b5fe14f373d8173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94b04ec3bda6b7747aa53936ef3b0ae2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 521b611700410be45810047f0a74e899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64e009aa77380ec4c82dfedeaa29c66b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbcd6404392e4b144ae7030ca682dcbe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e44af8091779fcb40801d5b284353dbe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c402b0b792783d54e86ab33d85d69e01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc05eca0cf147c34595da141e1169e34, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OculusAsymmetricalTemplate/Scenes/Photon2Room.unity
+Dependencies:
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_prefab0

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2351109674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a6921aa0868f125abb1ab202b3142a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Assets/Audio/goToActiveDosimeters.wav
+- Assets/_Assets/Audio/goToLeadAprons.wav
+- Assets/_Assets/Audio/welcometotheOperatingRoom.wav
+- Assets/_Assets/Audio/goToPassifDosimeters.wav
+- Assets/_Assets/Audio/goToOperatingRoom.wav
+- Assets/_Assets/Audio/enterZoneScenario.wav
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 212819079
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b998d96bad510b0b93640f2e0ff5e099
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HumanShaderPack/HairShaderSimple/Textures_hair/HairVariator_Rougher.png
+- Assets/iPoly3D/Server Room/Textures/texture_glow.png
+- Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/PP.png
+- Assets/Surgical Instruments - Free hospital props/Models/Textures/Surgical pack_all_tex_Normal.png
+- Assets/BarProps/Textures/OldSchoolBarstool/OldSchoolBarstoolNoBack/OldSchoolBarstoolNoBack_OldSchoolBarstoolNoBack-material_Normal.png
+- Assets/_Assets/DoseMaps/p_1_0_0_100_0_0_0_world_edep.mhd_dosemapmipfilter.png
+- Assets/_Assets/DoseMaps/p_1_0_-30_100_0_0_0_world_edep.mhd_dosemapmipfilter.png
+- Assets/_Assets/DoseMaps/p_1_60_-30_100_0_0_0_world_edep.mhd_dosemapmipfilter.png
+Dependencies: []

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2047916253
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3abf89948fda9cd23a3b186f3a3cd5a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Assets/Materials/screen_computer.mat
+- Assets/Materials/texture_mur.mat
+- Assets/_Assets/Materials/healthmonitoring.mat
+- Assets/_Assets/Materials/health_monitoring_screen.mat
+- Assets/BarProps/Materials/OldSchoolBarstoolNoBack.mat
+- Assets/_Assets/Materials/floor.mat
+- Assets/Surgical Instruments - Free hospital props/Models/Materials/M_Swathe_1.mat
+- Assets/Surgical Instruments - Free hospital props/Models/Materials/M_Forceps_1.mat
+- Assets/Materials/p_1_90_0_120_0_0_0_world_edep.mhd_dosemap.mat
+- Assets/Surgical Instruments - Free hospital props/Models/Materials/M_Forceps_2.mat
+- Assets/Materials/texturepapierbleu2.mat
+- Assets/Surgical Instruments - Free hospital props/Models/Materials/M_Bowl_1.mat
+- Assets/_Assets/Materials/fenetre_texture.mat
+- Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Materials/Head-2.mat
+- Assets/Materials/texture-alu.mat
+- Assets/Surgical Instruments - Free hospital props/Models/Materials/M_Scalpel_1.mat
+- Assets/_Assets/Materials/grey.mat
+- Assets/_Assets/Materials/green.mat
+- Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/Materials/sil.mat
+- Assets/HumanShaderPack/HairShaderSimple/Materials_Hair/HairShader_FineBrown.mat
+- Assets/_Assets/Materials/black.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+Dependencies:
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_shader0

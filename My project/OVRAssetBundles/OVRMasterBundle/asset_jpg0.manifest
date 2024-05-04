@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 418141811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5026c24a7e86fdfb5a4bd824392f15b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Assets/Textures/IMG_5617.JPG
+- Assets/_Assets/Textures/IMG_5611.JPG
+- Assets/_Assets/Textures/IMG_5643.JPG
+- Assets/_Assets/Textures/IMG_5642.JPG
+- Assets/_Assets/Textures/meuble_1.JPG
+- Assets/_Assets/Textures/IMG_5612.JPG
+- Assets/_Assets/Textures/IMG_5621.JPG
+- Assets/_Assets/Textures/IMG_5616.JPG
+- Assets/_Assets/Textures/IMG_5620.JPG
+- Assets/_Assets/Textures/meuble_prothese.JPG
+Dependencies: []

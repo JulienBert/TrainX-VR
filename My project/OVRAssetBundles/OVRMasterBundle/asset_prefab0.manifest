@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 3783306751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15d6adaf0b3de4006258c73390faab53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c1bb619cee8c0c180483a0262112311
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94b04ec3bda6b7747aa53936ef3b0ae2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab4c587457d86f4ca80582f946785ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e44af8091779fcb40801d5b284353dbe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03a7614f10832d041bccff167d2a460f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/iPoly3D/Server Room/Prefabs/mouse.prefab
+- Assets/Surgical Instruments - Free hospital props/Models/Prefabs/Forceps_2.prefab
+- Assets/iPoly3D/Server Room/Prefabs/screen.prefab
+- Assets/Oculus/SampleFramework/Core/Locomotion/TeleportDestination.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
+- Assets/Surgical Instruments - Free hospital props/Models/Prefabs/Bowl_1.prefab
+- Assets/Surgical Instruments - Free hospital props/Models/Prefabs/Scalpel_2.prefab
+- Assets/Surgical Instruments - Free hospital props/Models/Prefabs/Clamp_2.prefab
+- Assets/iPoly3D/Server Room/Prefabs/panel.prefab
+- Assets/Surgical Instruments - Free hospital props/Models/Prefabs/Syringe_1.prefab
+- Assets/Surgical Instruments - Free hospital props/Models/Prefabs/Swathe_1.prefab
+- Assets/Surgical Instruments - Free hospital props/Models/Prefabs/Clamp_1.prefab
+- Assets/iPoly3D/Server Room/Prefabs/Keyboard.prefab
+- Assets/Surgical Instruments - Free hospital props/Models/Prefabs/Forceps_3.prefab
+- Assets/OculusAsymmetricalTemplate/Standard Assets/Cameras/Prefabs/FreeLookCameraRig.prefab
+- Assets/Surgical Instruments - Free hospital props/Models/Prefabs/Scalpel_1.prefab
+- Assets/Surgical Instruments - Free hospital props/Models/Prefabs/Forceps_1.prefab
+Dependencies:
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_mat1

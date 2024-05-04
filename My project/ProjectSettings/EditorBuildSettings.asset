@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Assets/Scenes/DoseMapScene.unity
+    guid: 1a3fd88131be9834a9b3546c058dc59d
+  - enabled: 0
+    path: Assets/_Assets/Scenes/SurgeonScenario.unity
+    guid: 4366c77aa89f47645b6974a78b5ff9e5
+  - enabled: 1
+    path: Assets/_Assets/Scenes/LoadScene.unity
+    guid: f39f9fa84b27f08419f585124ded4bfd
+  - enabled: 0
+    path: Assets/_Assets/Scenes/SurgeonScenarioMultiplayer.unity
+    guid: 185252c7f35df0e42911520cc9ce24f8
+  - enabled: 0
+    path: Assets/_Assets/Scenes/LoadSceneOVR.unity
+    guid: 4decd9b31631df74599a7c61d9c32296
+  - enabled: 0
+    path: Assets/_Assets/Scenes/SurgeonScenarioMultiplayerOVR.unity
+    guid: 05ab1542ddc677b4f86279da9f1ca187
+  - enabled: 0
+    path: Assets/_Assets/Scenes/ScenarioBlocOVR.unity
+    guid: c87eb2a6102e21a4db07a40614b941c7
+  - enabled: 0
+    path: Assets/_Assets/Scenes/ScenarioBlocXR.unity
+    guid: 0b10bfbc59572eb4eb186abeb78c2f9f
+  - enabled: 1
+    path: Assets/_Assets/Scenes/ScenarioBlocXRMultiplayer.unity
+    guid: be123864fdb695c4fb0d38373146b957
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fab5812811193a54fab7d5da9699f64e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d3e8705a13e6cf840a6c4b5c41b772f5, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 115c87bdbe341a44d85a3d28d569e89a, type: 2}

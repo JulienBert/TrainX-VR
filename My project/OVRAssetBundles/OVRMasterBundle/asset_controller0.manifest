@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2750650658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51d0c1fd214ab7604628077c65eabd4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Assets/Animation/TeleportStepEnter.controller
+- Assets/_Assets/Animation/anesthesiste_man.controller
+- Assets/_Assets/Animation/Plane_007.controller
+- Assets/_Assets/Animation/interneposition.controller
+- Assets/_Assets/Animation/trainer.controller
+- Assets/_Assets/Animation/Plane_006.controller
+- Assets/_Assets/Animation/Plane_009.controller
+- Assets/_Assets/Animation/Plane_001.controller
+- Assets/_Assets/Animation/Rotations/C-Arm/Joint_scenario.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2LeftAnimation.controller
+- Assets/_Assets/Animation/Cylinder 1.controller
+- Assets/_Assets/Animation/Plane.controller
+- Assets/_Assets/Animation/Rotations/C-Arm/Carm_scenario.controller
+- Assets/_Assets/Animation/Plane_002.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/LeftHandAnimator.controller
+- Assets/_Assets/Animation/Cylinder (3).controller
+- Assets/_Assets/Animation/Cylinder 3.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/RightHandAnimator.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2RightAnimation.controller
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animator/ThirdPersonAnimatorController.controller
+- Assets/_Assets/Animation/Plane_005.controller
+- Assets/_Assets/Animation/Cylinder (1).controller
+- Assets/_Assets/Animation/Rotations/Surgeon/SurgeonScenario.controller
+- Assets/_Assets/Animation/medicalstaff.controller
+- Assets/_Assets/Animation/Plane_004.controller
+- Assets/_Assets/Animation/TeleportZoneEnter2.controller
+Dependencies:
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_anim1
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Julien/Documents/GitHub/barbaraguyomard-vr-optimix-project/My project/OVRAssetBundles/OVRMasterBundle/asset_fbx2
